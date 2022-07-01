@@ -70,27 +70,27 @@ The app defines following APIs.
 
 ### Login
 
-![Login image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/login.PNG?raw=true)
+![Login image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/login.png?raw=true)
 
 ### Register
 
-![Register image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/register%20new.PNG?raw=true)
+![Register image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/register%20new.png?raw=true)
 
 ### Home
 
-![Home Page image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/home.PNG?raw=true)
+![Home Page image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/home.png?raw=true)
 
 ### Profile
 
-![Profile image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/profile.PNG?raw=true)
+![Profile image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/profile.png?raw=true)
 
 ### Transaction History
 
-![History image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/history.PNG?raw=true)
+![History image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/history.png?raw=true)
 
 ### Transfer
 
-![Transfer image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/transfer.PNG?raw=true)
+![Transfer image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/transfer.png?raw=true)
 
 
 # Future Extension
