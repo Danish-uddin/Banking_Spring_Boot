@@ -1,4 +1,4 @@
-# Banking System With Spring Boot And Angular with Spring Security
+# Banking System using Angular, Spring Boot and MySql
 
 ## Introduction
 
